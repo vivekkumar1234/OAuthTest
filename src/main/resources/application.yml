@@ -5,8 +5,8 @@
             clientSecret: 0878782028f8788ee278dc39db1b90cf
             accessTokenUri: https://graph.facebook.com/oauth/access_token
             userAuthorizationUri: https://www.facebook.com/dialog/oauth
-            tokenName: oath_token
+            tokenName: oauth_token
             authenticationScheme: query
             clientAuthenticationScheme: form
       resource:
-            userInfoUri: https://graph.facebook.com/100000771815919
+            userInfoUri: https://graph.facebook.com/me
